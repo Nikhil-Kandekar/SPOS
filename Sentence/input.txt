@@ -1,0 +1,23 @@
+He cracked a joke
+
+//
+E:\TE\SPOS\Sentence>sentence.exe
+Nikhil is in IsquareIT
+NOUN    ==>Nikhil
+VERB    ==>is
+PREPOSITION     ==>in
+NOUN    ==>IsquareIT
+
+SIMPLE SENTENCE
+
+E:\TE\SPOS\Sentence>sentence.exe
+Nikhil is boy and he is student
+NOUN    ==>Nikhil
+VERB    ==>is
+NOUN    ==>boy
+CONJUNCTION     ==>and
+PRONOUN ==>he
+VERB    ==>is
+NOUN    ==>student
+
+COMPOUND SENTENCE
